@@ -1,3 +1,5 @@
+١
 pyTelegramBotAPI
-google-generativeai
 Flask
+requests
+psycopg2-binary
